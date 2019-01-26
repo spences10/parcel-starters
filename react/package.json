@@ -4,8 +4,8 @@
   "description": "Parcel starter React",
   "main": "index.js",
   "scripts": {
-    "dev": "parcel index.html -p 2020 --open",
-    "build": "parcel build index.html",
+    "dev": "parcel src/index.html -p 2020 --open",
+    "build": "parcel build src/index.html",
     "clean": "rm -rf .cache && rm -rf dist"
   },
   "keywords": [],
