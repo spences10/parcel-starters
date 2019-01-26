@@ -1,7 +1,7 @@
 {
-  "name": "parcel-starters",
+  "name": "parcel-starter-react",
   "version": "0.1.0",
-  "description": "Parcel starters",
+  "description": "Parcel starter React",
   "main": "index.js",
   "scripts": {
     "dev": "parcel index.html -p 2020 --open",
